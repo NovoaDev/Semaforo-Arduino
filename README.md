@@ -15,3 +15,6 @@ Componentes
 -	5 Led 
 -	5 resistencias 220 ohmios
 -	1 resistencia 10k ohmios
+
+Video demo
+https://www.youtube.com/watch?v=pzIYVu5SSXk&feature=youtu.be
