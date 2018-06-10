@@ -16,5 +16,5 @@ Componentes
 -	5 resistencias 220 ohmios
 -	1 resistencia 10k ohmios
 
-Video demo
+Video demostrativo
 https://www.youtube.com/watch?v=pzIYVu5SSXk&feature=youtu.be
